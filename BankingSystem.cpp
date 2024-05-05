@@ -46,6 +46,8 @@ void CloseAccount(long accountNumber);
 void ShowAllAccounts();
 ~Bank();
 };
+
+
 int main()
 {
 Bank b;
